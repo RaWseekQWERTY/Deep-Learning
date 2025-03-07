@@ -1,0 +1,1 @@
+Perceptron was the founding idea behind neural network or multi layer perceptron, as perceptron cannot deal with complex data i.e. XOR gate, MLP was introduced to tackle it by using multiple perceptron as hidden layers machines generated the capability to capture complex data present in dataset.
